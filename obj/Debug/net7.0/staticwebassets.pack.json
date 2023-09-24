@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/RunGroopWebApp.bundle.scp.css"
     },
     {
+      "Id": "/Users/buraksag/Projects/RunGroopWebApp/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/buraksag/Projects/RunGroopWebApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

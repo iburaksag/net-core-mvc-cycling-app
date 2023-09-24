@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wCUiERK+5JmrDaKHtbcj7HvBfzpqGd2r1dF2MsJdEG4=",
+  "Hash": "inFfYoXkJNgdwCydRwLsGTGbMH+3n+mApCwRLRBDHho=",
   "Source": "RunGroopWebApp",
   "BasePath": "_content/RunGroopWebApp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/buraksag/Projects/RunGroopWebApp/obj/Debug/net7.0/scopedcss/projectbundle/RunGroopWebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/buraksag/Projects/RunGroopWebApp/wwwroot/.DS_Store",
+      "SourceId": "RunGroopWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/buraksag/Projects/RunGroopWebApp/wwwroot/",
+      "BasePath": "_content/RunGroopWebApp",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/buraksag/Projects/RunGroopWebApp/wwwroot/css/site.css",
