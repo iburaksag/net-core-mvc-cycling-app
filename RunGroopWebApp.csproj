@@ -20,6 +20,8 @@
     <None Remove="Services\" />
     <None Remove="ViewModel\" />
     <None Remove="Views\Account\" />
+    <None Remove="Views\Dashboard\" />
+    <None Remove="Views\User\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
@@ -32,6 +34,8 @@
     <Folder Include="Services\" />
     <Folder Include="ViewModel\" />
     <Folder Include="Views\Account\" />
+    <Folder Include="Views\Dashboard\" />
+    <Folder Include="Views\User\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.11" />
